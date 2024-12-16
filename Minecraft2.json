@@ -1,1 +1,21 @@
-{"name": "Minecraft", "downloads": [{"title": "WolfGirl Roommate", "uris": ["https://gofile.io/d/IyPz4s"], "fileSize": "54MB", "uploadDate": "12/10/24"}, {"title": "Love Sucks Night Two", "uris": ["https://gofile.io/d/9s1EnU"],"fileSize": "524MB","uploadDate": "12/06/24"}]}
+{
+    "name": "Ertilado",
+    "downloads": [
+      {
+        "title": "WolfGirl Roommate v1.0.0",
+        "uris": [
+          "https://gofile.io/d/IyPz4s"
+        ],
+        "uploadDate": "2024-07-01T10:50:00.000Z",
+        "fileSize": "54.00 MB"
+      },
+      {
+        "title": "Love Sucks Night Two v1.0.0",
+        "uris": [
+          "https://gofile.io/d/9s1EnU"
+        ],
+        "uploadDate": "2020-01-31T23:53:00.000Z",
+        "fileSize": "524.00 MB"
+      }
+    ]
+  }
